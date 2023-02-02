@@ -1,0 +1,30 @@
+{
+  "ADS": [
+    {
+      "select_main_ads": "ADMOB",
+      "select_backup_ads": "",
+      "main_ads_banner": "ca-app-pub-3147778395365906/7790825109",
+      "main_ads_intertitial": "ca-app-pub-3147778395365906/4570583634",
+      "backup_ads_banner": "",
+      "backup_ads_intertitial": "",
+      "initialize_sdk": "",
+      "initialize_sdk_backup_ads": "",
+      "interstitial_counter": "3",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://",
+      "keyword_home_fragment": "anime",
+      "show_category": "yes"
+    }
+  ],
+  "DATA": [
+    {
+      "title_search": "",
+      "image_url": ""
+    }
+  ]
+}
