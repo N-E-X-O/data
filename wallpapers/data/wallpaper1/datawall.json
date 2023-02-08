@@ -27,60 +27,20 @@
       "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/1.jpg"
     },
     {
-      "title_search": "Call of Duty MW",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/2.png"
+      "title_search": "Call of Duty Modern Warfare",
+      "image_url": ""
     },
     {
-      "title_search": "Call of Duty Warzone Parachute",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/3.jpg"
+      "title_search": "Call of Duty Warzone",
+      "image_url": ""
     },
     {
-      "title_search": "Call of Duty Warzone Forest",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/4.png"
+      "title_search": "PUBG",
+      "image_url": ""
     },
     {
-      "title_search": "Call of Duty Warzone Smoke",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/5.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Smoke",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/5.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Masked",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/6.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone MultiPlayer",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/7.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Painted",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/8.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Vector",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/9.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Death eyes",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/10.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Double",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/11.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Sunny",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/12.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone From Plane",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/13.jpg"
-    },
-    {
-      "title_search": "Call of Duty Warzone Helicopter",
-      "image_url": "https://raw.githubusercontent.com/N-E-X-O/data/main/wallpapers/data/wallpaper1/14.jpg"
+      "title_search": "Home",
+      "image_url": ""
     }
   ]
 }
