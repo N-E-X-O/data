@@ -1,67 +1,48 @@
-Privacy Policy.
+**Privacy Policy**
 
-This Privacy Policy describes how we collects, uses, and shares information about you when you use our app. By downloading and using the app, you consent to our collection and use of your information as described in this Privacy Policy.
+NEXO built the Smart PDF Reader app as a Freemium app. This SERVICE is provided by NEXO at no cost and is intended for use as is.
 
-Information We Collect
-When you download and use the app, we may collect the following information about you:
+This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
-Information you provide to us: We may collect information that you provide to us when you sign up for an account, make a purchase, or contact us for support. This information may include your name, email address, postal address, phone number, payment information, and other information you choose to provide.
+If you choose to use my Service, then you agree to the collection and use of information in relation to this policy. The Personal Information that I collect is used for providing and improving the Service. I will not use or share your information with anyone except as described in this Privacy Policy.
 
-Information we collect automatically: We may collect certain information automatically when you use the app, such as your IP address, device type, operating system, app usage data, and other analytics.
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which are accessible at Smart PDF Reader unless otherwise defined in this Privacy Policy.
 
-Cookies and similar technologies: We may use cookies and other similar technologies to collect information about how you use the app, to improve the app and your experience using it.
+**Information Collection and Use**
 
-How We Use Your Information
-We may use the information we collect about you for the following purposes:
+For a better experience, while using our Service, I may require you to provide us with certain personally identifiable information. The information that I request will be retained on your device and is not collected by me in any way.
 
-To provide and improve the app: We may use your information to provide and improve the app, including to customize the app to your preferences, to troubleshoot technical issues, and to analyze and improve app performance.
+**Log Data**
 
-To communicate with you: We may use your information to communicate with you about your account, to respond to your inquiries, to send you promotional emails, and to provide customer support.
+I want to inform you that whenever you use my Service, in a case of an error in the app I collect data and information (through third-party products) on your phone called Log Data. This Log Data may include information such as your device Internet Protocol (“IP”) address, device name, operating system version, the configuration of the app when utilizing my Service, the time and date of your use of the Service, and other statistics.
 
-To comply with legal obligations: We may use your information to comply with our legal obligations, such as responding to legal requests or enforcing our policies.
+**Cookies**
 
-How We Share Your Information
-We may share your information with third parties for the following purposes:
+Cookies are files with a small amount of data that are commonly used as anonymous unique identifiers. These are sent to your browser from the websites that you visit and are stored on your device's internal memory.
 
-Service providers: We may share your information with third-party service providers who help us operate the app, such as hosting providers, payment processors, and email service providers.
+This Service does not use these “cookies” explicitly. However, the app may use third-party code and libraries that use “cookies” to collect information and improve their services. You have the option to either accept or refuse these cookies and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.
 
-Business partners: We may share your information with our business partners to offer you additional products or services that may be of interest to you.
+**Service Providers**
 
-Legal purposes: We may disclose your information in response to a subpoena, court order, or other legal request.
+I may employ third-party companies and individuals due to the following reasons:
 
-Aggregate information: We may share aggregate information that does not personally identify you with third parties, such as advertisers and analytics providers.
+*   To facilitate our Service;
+*   To provide the Service on our behalf;
+*   To perform Service-related services; or
+*   To assist us in analyzing how our Service is used.
 
-Data Security
-We take reasonable measures to protect your information from unauthorized access or disclosure, including using encryption and firewalls to protect sensitive information.
+I want to inform users of this Service that these third parties have access to their Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.
 
-Your Choices
-You may opt out of receiving promotional emails from us by following the instructions in the email. You may also request that we delete your account by contacting us at [contact email]. However, please note that we may need to retain certain information for legal or administrative purposes.
+**Security**
 
-Changes to This Privacy Policy
-We may update this Privacy Policy from time to time. We will post any changes to the Privacy Policy on this page and will update the "Last Updated" date at the top of the page. We encourage you to review this Privacy Policy periodically for any updates or changes.
+I value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and I cannot guarantee its absolute security.
 
-Contact Us
-If you have any questions or concerns about this Privacy Policy or our data practices, please contact us at [contact email].
+**Changes to This Privacy Policy**
 
-Children's Privacy
-Our app is not intended for use by children under the age of 13, and we do not knowingly collect personal information from children under the age of 13. If you are a parent or guardian and you believe that your child has provided us with personal information, please contact us at [contact email]. We will promptly delete the information if we become aware that we have collected personal information from a child under the age of 13.
+I may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. I will notify you of any changes by posting the new Privacy Policy on this page.
 
-International Data Transfers
-If you are accessing our app from outside the United States, please be aware that your information may be transferred to, stored, and processed in the United States, where our servers are located and our central database is operated. By using our app, you consent to the transfer of your information to the United States, which may have different data protection laws than your country of residence.
+This policy is effective as of 2030-02-26
 
-Third-Party Links and Services
-Our app may contain links to third-party websites, products, or services that are not owned or operated by us. We are not responsible for the privacy practices of these third-party providers, and we encourage you to review their privacy policies before using their products or services.
+**Contact Us**
 
-California Privacy Rights
-If you are a California resident, you may have certain rights under the California Consumer Privacy Act (CCPA). To learn more about your CCPA rights and how to exercise them, please see our CCPA Privacy Notice [insert link to CCPA Privacy Notice].
-
-GDPR Data Protection Rights
-If you are a resident of the European Economic Area (EEA), you have certain data protection rights under the General Data Protection Regulation (GDPR). To learn more about your GDPR rights and how to exercise them, please see our GDPR Privacy Notice [insert link to GDPR Privacy Notice].
-
-Governing Law
-This Privacy Policy is governed by and construed in accordance with the laws of the state of [insert state], without giving effect to any principles of conflicts of law.
-
-Consent
-By using our app, you consent to our Privacy Policy and agree to be bound by its terms. If you do not agree to our Privacy Policy, please do not use our app.
-
-Last Updated: [insert date]
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at fouadyoussef2@gmail.com.
